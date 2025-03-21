@@ -1,2 +1,2 @@
-# sft-generalised
-Shape-from-Template with Generalized Cameras
+# Shape-from-Template with Generalized Cameras
+Source code for Shape-from-Template (SfT) with constellation of multiple cameras, modelled as the generalized camera
